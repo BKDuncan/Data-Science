@@ -4,9 +4,9 @@ Collection of data science course materials, examples, and tutorials I have work
 
 ## Visualizations in Python
 
-[Map](./visualization-in-python/foliom-and-matplotlib)
+[Map](./visualization-in-python/folium-and-matplotlib)
 
-[Bar Chart](./visualization-in-python/foliom-and-matplotlib)
+[Bar Chart](./visualization-in-python/folium-and-matplotlib)
 
 ## Resources
 
