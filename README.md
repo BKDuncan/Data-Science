@@ -7,3 +7,6 @@ Collection of data science course materials, examples, and tutorials I have work
 [Map](./visualization-in-python/folio-and-matplotlib)
 
 [Bar Chart](./visualization-in-python/folio-and-matplotlib)
+
+## Resources
+
