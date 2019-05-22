@@ -1,4 +1,4 @@
-# Folio and Matplotlib in Python
+# Folium and Matplotlib in Python
 This jupyter notebook shows how to create:
 
 a) A bar chart with percentage labels, and legend using matplotlib.
