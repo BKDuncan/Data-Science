@@ -1,7 +1,7 @@
 # Data-Science
 Collection of data science course materials, examples, and tutorials I have worked with.
 
-## Worked-Through Examples from Hands-on Machine Learning by Aurélien Géron 
+## Examples from Hands-on Machine Learning by Aurélien Géron 
 
 [Chapter 3 - Classification](./machine-learning-fundamentals/Chapter%203%20-%20Classification.ipynb)
 
