@@ -11,6 +11,8 @@ Collection of data science course materials, examples, and tutorials I have work
 
 [Chapter 7 - Ensemble Learning](./machine-learning-fundamentals/Chapter%207%20-%20Ensemble%20Learning%20&%20Random%20Forests.ipynb)
 
+[Chapter 8 - PCA and Dimension Reduction](./machine-learning-fundamentals/PCA%20and%20Dimension%20Reduction.ipynb)
+
 ## Visualizations in Python
 
 [Map](./visualization-in-python/folium-and-matplotlib)
